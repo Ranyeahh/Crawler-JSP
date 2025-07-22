@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="poi-bin-5.2.3-20220910">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/jar-package-in/poi-bin-5.2.3-20220909.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

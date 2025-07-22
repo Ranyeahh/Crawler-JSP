@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="poi-bin-5.2.3-20220914">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/jar-package-in/poi-bin-5.2.3-20220909.zip!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$PROJECT_DIR$/jar-package-in/poi-bin-5.2.3-20220909.zip!/" recursive="false" type="SOURCES" />
+  </library>
+</component>
